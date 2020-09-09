@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/food-recipie-detail-app/static/css/main.5d80d1eb.chunk.css",
+    "main.js": "/food-recipie-detail-app/static/js/main.b1fae7a7.chunk.js",
+    "main.js.map": "/food-recipie-detail-app/static/js/main.b1fae7a7.chunk.js.map",
+    "runtime-main.js": "/food-recipie-detail-app/static/js/runtime-main.4ea539b9.js",
+    "runtime-main.js.map": "/food-recipie-detail-app/static/js/runtime-main.4ea539b9.js.map",
+    "static/js/2.e464cae5.chunk.js": "/food-recipie-detail-app/static/js/2.e464cae5.chunk.js",
+    "static/js/2.e464cae5.chunk.js.map": "/food-recipie-detail-app/static/js/2.e464cae5.chunk.js.map",
+    "index.html": "/food-recipie-detail-app/index.html",
+    "precache-manifest.f1ec8532931ed1759d3a39b72dad7fb8.js": "/food-recipie-detail-app/precache-manifest.f1ec8532931ed1759d3a39b72dad7fb8.js",
+    "service-worker.js": "/food-recipie-detail-app/service-worker.js",
+    "static/css/main.5d80d1eb.chunk.css.map": "/food-recipie-detail-app/static/css/main.5d80d1eb.chunk.css.map",
+    "static/js/2.e464cae5.chunk.js.LICENSE.txt": "/food-recipie-detail-app/static/js/2.e464cae5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/food-recipie-detail-app/static/media/1.9e0433b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea539b9.js",
+    "static/js/2.e464cae5.chunk.js",
+    "static/css/main.5d80d1eb.chunk.css",
+    "static/js/main.b1fae7a7.chunk.js"
+  ]
+}
